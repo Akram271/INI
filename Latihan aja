@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="latihan aja" />
+    <meta name="keywords" content="latihan pribadi" />
+    <meta name="student" content="Akram Putranto" />
+  </head>
+  <body>
+    <!--contoh br, hr, i ,u, b, strong, em, p, dan seri h-->
+    HALO INDONESIA
+    <p>
+      <b>Ini adalah</b> <br />
+      <u>Paragraf 1</u> <i>dengan penggunaan br, hr, b, i dan u</i>
+    </p>
+    <hr />
+    <h1>Ini adalah h1 JUDUL</h1>
+    <h2>Ini adalah h2 SUB JUDUL</h2>
+    <h3>Ini adalah h3</h3>
+    <h4>Ini adalah h4</h4>
+    <h5>Ini adalah h5</h5>
+    <h6>Ini adalah h6</h6>
+    <hr />
+    <p>
+      <strong>MEMBERITAHUKAN</strong>, ini adalah percobaan saya dalam merintis
+      suatu <em>kehidupan</em>
+    </p>
+    <hr />
+    <p>Apa yang harus dilakukan?</p>
+    <ol>
+      <li>Jangan buka FESNUK</li>
+      <li>Latih jari dan mata anda</li>
+      <li>Sedia Cemilan</li>
+      <li>Jangan Lupa Sholat</li>
+      <hr />
+      <p>Apa responmu terhadap list diatas?</p>
+    </ol>
+    <ol type="A">
+      <li>SIAP</li>
+      <li>MAGER</li>
+      <li>YA UDAH SIH</li>
+    </ol>
+    <hr />
+    <p>Terus mau ngapain?</p>
+    <ul type="square">
+      <li>MOLOR</li>
+      <li>MAKAN</li>
+      <li>MINGGAT</li>
+    </ul>
+    <hr />
+    <p>Sparepart mobil TOYOTA Supra:</p>
+    <dl>
+      <dt>1. Roda</dt>
+      <dd>Ada 4</dd>
+      <dt>2. Mesin</dt>
+      <dd>Mesin V8 dengan Turbocharger</dd>
+    </dl>
+    <hr />
+    <p>
+      Klik
+      <a href="https://youtu.be/dQw4w9WgXcQ?si=JYZpz6iTyqZ8a0WY">di sini</a>
+      untuk melihat sebuah gambar
+    </p>
+  </body>
+</html>
